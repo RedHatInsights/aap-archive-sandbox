@@ -17,7 +17,7 @@ These instructions show how to submit an update using the command line. You may 
 
 . Fork the repository. 
 +
-From the main page of the link:https://github.com/RedHatInsights/aap-sandbox/[aap-sandbox repository], click btn[Fork] in the upper right corner.
+From the main page of the link:https://github.com/RedHatInsights/aap-sandbox/[aap-sandbox repository], click btn[Fork] in the upper right corner. Choose your own GitHub account as the destination for the fork. Do not choose RedHatInsights as the destination.
 
 . Clone the forked repository locally.
 
